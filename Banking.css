@@ -13,6 +13,11 @@ footer {
   color: white;
 }
 
+.jumbotron{
+  background-image: url("img/banking.png");
+  color: #fff;
+}
+
 /* Full-width input fields */
 input[type=text], input[type=password] {
   width: 100%;
