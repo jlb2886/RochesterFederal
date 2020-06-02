@@ -1,5 +1,5 @@
 .navbar-brand {
-    background-color: #FFFFFF;
+    background-color: #162447;
     margin: 0;
     padding: 0.25em 1em 0 1em;
     border-radius: 5px;
@@ -55,12 +55,17 @@ button:hover {
 }
 
 img.avatar {
-  width: 10em;
+  width: 25em;
 }
 
 .containerLogin {
+  background-color: #FFF;
   padding: 15px;
   margin: 10px;
+}
+
+button.submit {
+    margin: 5em;
 }
 
 /* span.psw {
