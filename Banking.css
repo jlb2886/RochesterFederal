@@ -68,6 +68,9 @@ button.submit {
     margin: 5em;
 }
 
+#valid {
+    color: red;
+}
 /* span.psw {
   float: right;
   padding-top: 20px;
