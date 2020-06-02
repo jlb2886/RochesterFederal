@@ -1,5 +1,8 @@
 .navbar-brand {
-    background-color: #162447;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0.25em 1em 0 1em;
+    border-radius: 5px;
 }
 
 /* Full-width input fields */
@@ -18,7 +21,7 @@ button {
   color: white;
   /* padding: 14px 20px; */
   padding: 5px 18px 5px 18px;
-  margin: 10px 0 0 20px;
+  margin: 10px 5px 5px 20px;
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -44,18 +47,23 @@ button:hover {
 }
 
 img.avatar {
-  width: 40%;
-  border-radius: 50%;
+  width: 10em;
 }
 
-.container {
-  padding: 16px;
+.containerLogin {
+  padding: 15px;
+  margin: 10px;
 }
 
-span.psw {
+/* span.psw {
   float: right;
-  padding-top: 16px;
+  padding-top: 20px;
 }
+
+span.uname {
+  float: right;
+  padding-top: 20px;
+} */
 
 /* The Modal (background) */
 .modal {
