@@ -86,6 +86,23 @@ span.uname {
   padding-top: 20px;
 } */
 
+.list{
+  width: 50em;
+  margin-top: 2em;
+  margin-bottom: 4em;
+}
+
+.mr-3{
+  float:left;
+  margin: 15px;
+}
+
+.invest{
+  float:right;
+  margin: 30px;
+  width: 40em;
+}
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
