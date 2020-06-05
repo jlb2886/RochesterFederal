@@ -13,6 +13,10 @@ footer {
   color: white;
 }
 
+marquee {
+    margin-bottom: 1em;
+}
+
 .jumbotron{
   background-image: url("img/investment.png");
   color: #fff;
@@ -36,6 +40,7 @@ button {
   border-radius: 10px;
   cursor: pointer;
   width: 100%;
+  margin-left: 0;
 }
 
 button:hover {
@@ -45,7 +50,7 @@ button:hover {
 .cancelbtn {
   width: auto;
   padding: 10px 18px;
-  background-color: #f44336;
+  background-color: #e43f5a;
 }
 
 .imgcontainer {

@@ -13,6 +13,10 @@ footer {
   color: white;
 }
 
+marquee {
+    margin-bottom: 1em;
+}
+
 .jumbotron{
   background-image: url("img/banking.png");
   color: #fff;
@@ -39,6 +43,7 @@ button {
   border-radius: 10px;
   cursor: pointer;
   width: 100%;
+  margin-left: 0;
 }
 
 button:hover {
