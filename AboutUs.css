@@ -18,35 +18,47 @@ marquee {
 }
 
 .jumbotron{
-  background-image: url("img/home.png");
+  background-image: url("img/AboutUs.png");
   color: #fff;
 }
 
-.LearnMoreBoxes {
-  margin: 3.5em;
+.representatives {
+  float: right;
+  margin: 2em;
+}
+
+.insuranceTypes {
+  width: 100%;
+  height: 17em;
+  margin: 6em;
+  padding: 1em;
+}
+
+.cardDescription {
   float: left;
   justify-content: center;
-  display: flex;
+  width: 50%;
+  height: 100%;
+  margin-top: 0;
+  margin-bottom: 5em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+div.card {
+  float: left;
+  width: 25%;
+  background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* margin-bottom: 25px; */
 }
 
-.FindOut{
-  max-width: 100%;
-  height: auto;
-  display: inline;
-  justify-content: center;
-  background-color: #162447;
+div.containerCard {
+  text-align: center;
+  padding: 10px 20px;
 }
 
-.image{
-  background-color: #162447;
-  width: 100%;
-  height: 20em;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-top: 3em;
-  margin-bottom: 3em;
-}
-
+/* Full-width input fields */
 input[type=text], input[type=password] {
   width: 100%;
   padding: 12px 20px;
@@ -56,9 +68,11 @@ input[type=text], input[type=password] {
   box-sizing: border-box;
 }
 
+/* Set a style for all buttons */
 button {
   background-color: #1f4068;
   color: white;
+  /* padding: 14px 20px; */
   padding: 5px 18px 5px 18px;
   margin: 10px 5px 5px 20px;
   border: none;
@@ -72,12 +86,14 @@ button:hover {
   opacity: 0.8;
 }
 
+/* Extra styles for the cancel button */
 .cancelbtn {
   width: auto;
   padding: 10px 18px;
   background-color: #f44336;
 }
 
+/* Center the image and position the close button */
 .imgcontainer {
   text-align: center;
   margin: 24px 0 12px 0;
@@ -101,23 +117,15 @@ button.submit {
 #valid {
     color: red;
 }
-
-.list{
-  width: 50em;
-  margin-top: 2em;
-  margin-bottom: 4em;
+/* span.psw {
+  float: right;
+  padding-top: 20px;
 }
 
-.mr-3{
-  float:left;
-  margin: 15px;
-}
-
-.invest{
-  float:right;
-  margin: 30px;
-  width: 40em;
-}
+span.uname {
+  float: right;
+  padding-top: 20px;
+} */
 
 /* The Modal (background) */
 .modal {
