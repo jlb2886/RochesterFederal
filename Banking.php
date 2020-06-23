@@ -18,19 +18,19 @@
         <a class="navbar-brand" href="#"><img src="img/RochesterFederal.png" alt="Rochester Federal Bank" width = 30em></a>
         </div>
         <ul class="nav navbar-nav">
-        <li><a href="https://people.rit.edu/jlb2886/Sites/RochesterFederal/home.php">Home</a></li>
-        <li class="active"><a href="https://people.rit.edu/jlb2886/Sites/RochesterFederal/Banking.php">Banking</a></li>
-        <li><a href="https://people.rit.edu/jlb2886/Sites/RochesterFederal/investment.php">Investment</a></li>
-        <li><a href="https://people.rit.edu/jlb2886/Sites/RochesterFederal/insurance.php">Insurance</a></li>
-        <li><a href="https://people.rit.edu/jlb2886/Sites/RochesterFederal/resources.php">Resources</a></li>
-        <li><a href="https://people.rit.edu/jlb2886/Sites/RochesterFederal/AboutUs.php">About Us</a></li>
+        <li><a href="home.php">Home</a></li>
+        <li class="active"><a href="Banking.php">Banking</a></li>
+        <li><a href="investment.php">Investment</a></li>
+        <li><a href="insurance.php">Insurance</a></li>
+        <li><a href="resources.php">Resources</a></li>
+        <li><a href="AboutUs.php">About Us</a></li>
         </ul>
 
         <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
 
         <div id="id01" class="modal">
           
-          <form class="modal-content animate" action="file:///Users/juliannabaker/Documents/GitHub/RochesterFederal/action_page.php" onsubmit="validateForm()" method="POST">
+          <form class="modal-content animate" action="action_page.php" onsubmit="validateForm()" method="POST">
             <div class="imgcontainer">
               <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
               <img src="img/RochesterFederalBackground.png" alt="Avatar" class="avatar">
@@ -43,7 +43,7 @@
               <label for="psw"><b>Password</b></label>
               <input id="pass"type="password" placeholder="Enter Password" name="psw" required>
                 
-              <button type="submit" onclick="window.location.href = 'https://people.rit.edu/jlb2886/Sites/RochesterFederal/action_page.php';" >Login</button> <!--relocating to action_page.php-->
+              <button type="submit" onclick="window.location.href = 'action_page.php';" >Login</button> <!--relocating to action_page.php-->
               <p id = "valid"></p></p>
               <label>
                 <input type="checkbox" checked="checked" name="remember"> Remember me
