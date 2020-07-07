@@ -81,10 +81,10 @@
     </div>
     <div class = "cardDescription">
       <h3>Auto Insurance</h3>
-      <p>You have a great deal riding on your accident protection. Our own car strategy is intended 
-        to guarantee your vehicle, however it's progressively about keeping you, your family and 
-        friends secured. We go the additional mile to bring you genuine feelings of serenity any 
-        place the street takes you.</p>
+      <p>Accident protection is one of the most important things to get to keep you and your loved
+      ones under a safety umbrella. Our car strategy is intended to guarantee your vehicle to keep
+      you, family, and friends secured. We go the additional mile to bring you genuine feelings of
+      serenity any place the street takes you.</p>
     </div>
   </div> <!--Insurance Types-->
 
@@ -97,10 +97,10 @@
     </div>
     <div class = "cardDescription">
       <h3>Homeowners Insurance</h3>
-      <p>Home is the place the heart is. Our property holder's strategy is a bundle arrangement that 
-        incorporates inclusions for a home, its substance, and the inhabitant's obligation. We go well 
-        beyond today to ensure what's imperative to you is secured tomorrow. 
-        See the amount you could spare.</p>
+      <p>Home is the place the heart is. Our property holder's strategy is a bundle arrangement that
+      incorporates inclusions for a home, its possessions, and the inhabitant's liability. We go well
+      beyond today to ensure what's imperative to you is secured tomorrow. See the amount you could
+      spare.</p>
     </div>
   </div> <!--Insurance Types-->
 

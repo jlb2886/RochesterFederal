@@ -72,7 +72,7 @@
 
 <div class="jumbotron text-center">
   <h1>Rochester Federal</h1>
-  <p>The Bank who has your back</p> 
+  <p>The Bank That Has Your Back</p> 
 </div>
 
 <div class="container">

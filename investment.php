@@ -75,32 +75,46 @@
   <li class="media">
     <img src="img/financialplanning.png" class="mr-3" alt="financial planning">
     <div class="media-body">
-      <h5 class="mt-0 mb-1">Economic Planning</h5>
-      On occasion it makes experience to manage certain parts of your monetary destiny to your personal. however when you need to know that your investments, financial savings and retirement plan are all running collectively in the direction of a not unusual purpose—you can trust our services to hold them targeted, every day.
+      <h3 class="mt-0 mb-1">Economic Planning</h3>
+      It takes experience to manage certain parts of your monetary destiny throughout your life.
+      However, when you need to know that your investments, financial savings, and retirement plan
+      are all running collectively in the direction of a well-thought-out plan that saves you time,
+      trouble, and money, you can trust our services to hold onto that responsibility every day.
       </br>
     </div>
   </li>
   <li class="media my-4">
     <img src="img/retirement.png" class="mr-3" alt="retirement planning">
     <div class="media-body">
-      <h5 class="mt-0 mb-1">Planning to Retire</h5>
-      An increasing number of people are looking at retirement as a transferring target—many figuring that they’re going to have to work a long way longer than they’d like to. We keep in mind that appropriate making plans today will no longer simplest help keep your attractions on in which you need to be in the future, it will help you get there whilst you need as nicely.
+      <h3 class="mt-0 mb-1">Planning to Retire</h3>
+      An increasing number of people are looking at retirement as a transferring target—many figuring
+      that they’re going to have to work a lot longer than they’d like to. Making the plan today to
+      save your money and retire early is something we will advise you to do to stay on track and not
+      have to spend your focus on work for the rest of your life. We will give you the stepping stones
+      to be able to relax for the time you fully deserve and worked for.
       </br>
     </div>
   </li>
   <li class="media">
     <img src="img/college.png" class="mr-3" alt="College savings plan">
     <div class="media-body">
-      <h5 class="mt-0 mb-1">University Plans</h5>
-      Your child’s university schooling is no small investment. As a rely of fact, it is able to be the single-largest fee you ever incur. but there are steps we permit you to take, starting right now, wherein the intention is to make that investment far more cheap—with out sacrificing the best of your toddler’s schooling.
+      <h3 class="mt-0 mb-1">University Plans</h3>
+      Your child’s university schooling is no small investment. As a matter of fact, it is the single-largest
+      fee you will ever incur and especially if you have more than one child going to college. but there are
+      steps we permit you to take, starting right now, we want to make that investment far cheaper—without
+      sacrificing the best of your children's schooling. We are here for you to build an investment plan for
+      your kid's educational career.
       </br>
     </div>
   </li>
   <li class="media">
     <img src="img/moneymanagement.png" class="mr-3" alt="Money Management">
     <div class="media-body">
-      <h5 class="mt-0 mb-1">Planning and Controlling Money</h5>
-      In nowadays’s economy saving directly what you have is as hard as earning it in the first instance. in terms of managing your investment portfolio, the simplest consistent is alternate. We will let you find out the appropriate stability of chance and reward on the way to help control that change.
+      <h3 class="mt-0 mb-1">Planning and Budgeting</h3>
+      In today's economy saving directly what you have is as hard as earning it. In terms of managing your
+      investment portfolio, it is hard to budget the money you have that will go into this portfolio and
+      what money should be used as expenses to other utilities. We will let you find out the appropriate
+      stability of chance and reward on the way to help control that change in your budget and monetary destiny.
       </br>
       &nbsp; &nbsp; &nbsp;
     </div>

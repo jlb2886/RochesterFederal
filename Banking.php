@@ -76,49 +76,45 @@
       <ul>
         <h3>Checking</h3>
         <p>Our ideal Checking has the most flexibility on all our offerings. Earn interest, get cashback rewards, and obtain preferred costs on deposit money owed.</p>
-        <li>online & cell Banking covered with mobile check Deposit, invoice Pay and P2P bills</li>
-        <li>access to over forty three,000 surcharge-unfastened ATMs national</li>
-        <li>1 container of preferred assessments in step with yr protected</li>
-        <li>Overdraft Line of credit to be had subject to application and credit approval</li>
-        <li>Elective Paper or eStatement covered</li>
-        <li>Savings Overdraft Sweep1, in case you overdraw your bank account, funds may be transferred from your financial savings account.  </li>
-        <li>Limitless check Writing</li>
-        <li>Cash back Rewards, receive $zero.05 cash back for each 5 big name bank Debit Card/ATM POS Transaction2 published over 15 for the duration of the statement period
-        </li>
-        <li>Secure Deposit container Discount3, $20 bargain on any size field in step with year</li>
+        <li>Online & Cell Banking covered with mobile check Deposit, invoice Pay and P2P bills.</li>
+        <li>Access to over 43,000 surcharge-unfastened ATMs national.</li>
+        <li>One box standard assessment in step with year protection.</li>
+        <li>Overdraft Line of credit approval.</li>
+        <li>Choice of paper or e-statement covered.</li>
+        <li>Savings Overdraft Sweep, in case you overdraw your bank account, funds may be transferred from your financial savings account.</li>
+        <li>Limitless check writing</li>
+        <li>Cash back Rewards, receive $0.05 cash back for each 5 major bank Debit Card/ATM POS transactions, published over 15 for one statement period. </li>
+        <li>Secure Deposits at any time, $20 bargain on any size field in step within a year.</li>
         <li>ATM fee Credits4, acquire as much as $10 per statement period for non-5 famous person bank ATM fees</li>
-        <li>ATM Surcharge credits, get hold of up to $10 according to declaration length for ATM Surcharge costs</li>
-        <li>Hobby Bearing Account</li>
-        <li>No rate cash Orders and Cashier tests</li>
+        <li>ATM fee credit: get up to $10 per statement period for non- Rochester Federal bank ATM fees.</li>
+        <li>ATM Surcharge credits: get up to $10 per statement period for ATM Surcharge costs.</li>
+        <li>Get interest on all your savings.</li>
+        <li>No fee collected for money orders.</li>
         <li>Favored Deposit Account prices</li>
-        <li>Preferred private mortgage and domestic equity mortgage Rates5</li>
-        <li>Service Costs, $25.00 in step with statement period </br> The service charge does now not practice when you have: </br>A combined overall consumer deposit accounts and/or mortgage balances of $25,000 or extra at the quit of the activity duration
-        </br>OR Direct deposits totaling at the least $5,000 into the account throughout the hobby period</li>
       </ul>
     </div>
     <div class="col-sm-4">
       <ul>
         <h3>Money Market</h3>
-        <p>Seeking to earn interest? Still have to get the right of entry to your funds? This account allows you to earn interest with constrained check writing skills!</p>
-        <li>$10.00 monthly protection charge</li>
-        <li>$2,500 common each day balance  to avoid fee</li>
+        <p>Seeking to earn interest? Still have to get the right of entry to your funds, this account allows you to earn interest with constrained check writing skills!</p>
+        <li>$10.00 monthly protection charge.</li>
+        <li>$2,500 common each day balance to avoid fee.</li>
         <li>Earns interest (Tiered charges)</li>
         <p></br>Online Banking Account get entry to a cash market account with limited check writing capabilities and favored hobby quotes for our most reliable checking account holders.</p>
-        <li>$12.00 month-to-month preservation fee</li>
-        <li>$10,000 average daily stability to avoid charge</li>
-        <li>Earns interest (Tiered charges)</li>
-        <li>Online Banking Account access</li>
+        <li>$12.00 month-to-month preservation fee.</li>
+        <li>Earns interest (Tiered charges).</li>
+        <li>Online Banking account access.</li>
       </ul>
     </div>
     <div class="col-sm-4">
       <ul>
         <h3>Statement Services</h3>        
         <p>An easy and inexpensive manner to store for the future, and to earn some interest whilst doing it!</p>
-        <li>five dollars monthly preservation charge*</li>
-        <li>Three hundred dollars average everyday stability to avoid the fee</li>
-        <li>Earn interest</li>
-        <li>Online Banking Account</li>
-        <li>Financial savings Overdraft Sweep2</li>
+        <li>Five dollars monthly preservation charge.</li>
+        <li>$300 average everyday stability to avoid the fee.</li>
+        <li>Earn interest on all your savings.</li>
+        <li>Multiple online banking account access.</li>
+        <li>Financial savings Overdraft Sweep.</li>
         <li>In case you overdraw your checking account, finances may be transferred from your savings account.</li>
         <p></br>*Account has no month-to-month protection fee or minimum balance if the primary account of the baking account is 18 of age or younger.</p>
       </ul>
